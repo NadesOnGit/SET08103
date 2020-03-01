@@ -252,7 +252,7 @@ Roles are the permissions that we are giving to control our project.  First, fro
 - App Engine -> App Engine Admin.
 - Storage -> Storage Admin.
 - Kubernetes Engine -> Kubernetes Engine Admin.
-- Storage -> Storage Admin.
+- Service Accounts -> Service Account User.
 
 **Click Continue.** Then, on the next page (below) **click Create Key.**:
 
